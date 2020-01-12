@@ -30,6 +30,7 @@ function App() {
           return <div className="grid-container" key={sub.id}>
             <span className="grid-item">{sub.name}</span>
             <span className="grid-item">{sub.phone}</span>
+            <button className="custom-btn btn-delete">Delete</button>
           </div>
         })
       }
