@@ -1,17 +1,3 @@
-.component-body-container {
-  margin: 20px;
-}
-.custom-btn {
-  padding: 10px;
-  border: none;
-  margin: 20px;
-  width: 90px;
-  border: none;
-  outline: none;
-  text-transform: uppercase;
-  font-size: 0.9rem;
-  font-weight: bolder;
-}
 .btn-add {
   color: white;
   background-color: #7ab97a;
